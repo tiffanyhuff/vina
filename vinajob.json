@@ -1,0 +1,13 @@
+{
+ "name": "vina-job-1675175337285",
+ "appId": "vina-0.0.1",
+ "batchQueue": "development",
+ "maxRunTime": "01:00:00",
+ "memoryPerNode": "1GB",
+ "nodeCount": 1,
+ "processorsPerNode": 1,
+ "archive": false,
+ "inputs": {},
+ "parameters": {},
+ "notifications": []
+}
